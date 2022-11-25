@@ -96,19 +96,14 @@ body {
 	border: 7px dashed #d2d2;
 }
 .languages {
-	background-color: #d2d2d2;
+	background-color: #d2d2d2; 
+	height: 350px;
+	border: 50px;
 }
 .languages__wrapper {
 	display: flex;
     width: 85%;
     margin-left: 200px;
-}
-
-.td1{
-	list-style-image: url(img/python.png);/* Путь к изображению маркера */
-}
-td{
-	text-decoration-color: red;
 }
 	
 
