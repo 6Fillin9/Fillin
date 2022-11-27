@@ -9,7 +9,7 @@
 body {
 	font-family: 'Roboto Mono';
     font-style: normal;
-    background: #DBBECA;
+    background: #d2d2d2;
 }	
 .visualy-hidden {
 	position: absolute;
@@ -70,7 +70,7 @@ body {
 	padding-left: 100px;
 	background: url(../img/fon.png) #fff;
 	width: 100%;
-	height: 920px;
+	height: 700px;
 }
 
 .hero__heading {
@@ -86,7 +86,9 @@ body {
 }
 
 .hero__button {
-	margin-top: 60px;	
+
+	margin-top: 80px;	
+	margin-left: 700px;
 	background-color: #3C4048;
 	color: #fff;
 	width: 300px;
@@ -99,6 +101,7 @@ body {
 	background-color: #d2d2d2; 
 	height: 350px;
 	border: 50px;
+	margin-top: 50px;
 }
 .languages__wrapper {
 	display: flex;
@@ -128,6 +131,37 @@ body {
 	color: #fff;
 }
 
+
+
+.my_projects{
+	color: #d2d2d2;
+	line-height: 128px;
+	margin-left: 120px;
+
+}
+ 
+.otzivi{
+	margin-top: 40px;
+	color: #d2d2d2;
+	align: center;
+	margin-left: 10px;
+
+}
+
+.contacts{
+    margin-left: 10px;
+	margin-top: 40px;
+	color: #d2d2d2;
+}
+.my_projects_title{
+	color: #d2d2d2;
+}
+
 .works__image {
 	width: 500px;
+}
+.footer{
+	background:  #000;
+	position:;
+	width: 100%;
 }
